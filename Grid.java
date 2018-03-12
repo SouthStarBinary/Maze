@@ -121,7 +121,9 @@ public class Grid
                 } 
             }
         }
-   
+	
+	
+   //----------------------------------------Skeleton Code ---------------------------------------------------------------------------
    //An enum type to represent the state of a square in a Grid
    public enum Square
    {

@@ -10,6 +10,8 @@
 //                 none of it is the work of any other person.
 //
 
+//--------------------------------------------- Skeleton Code Given ------------------------------------------------------
+
 import java.io.*;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
